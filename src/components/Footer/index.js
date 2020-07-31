@@ -9,9 +9,8 @@ function Footer() {
         <img src={vertoja} alt="Logo Vertoja" />
       </a>
       <p>
-        Orgulhosamente criado pelo flavico
-        {' '}
         <a href="https://flavicoflix.vercel.com/">
+          Orgulhosamente criado pelo flavico
         </a>
       </p>
     </FooterBase>
